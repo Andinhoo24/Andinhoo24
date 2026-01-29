@@ -6,30 +6,21 @@
 </div>
 
 ### 🔥 Projetos em Destaque
-<div align="center">
-[![ninja-rpg](https://github-readme-stats.vercel.app/api/pin/?username=Andinhoo24&repo=ninja-rpg&theme=radical)](https://github.com/Andinhoo24/ninja-rpg)
-[![Aprendendo-JAVA](https://github-readme-stats.vercel.app/api/pin/?username=Andinhoo24&repo=Aprendendo-JAVA&theme=radical)](https://github.com/Andinhoo24/Aprendendo-JAVA)
-</div>
+[![ninja-rpg](https://images.seeklogo.com/logo-png/27/2/github-logo-png_seeklogo-273183.png)](https://github.com/Andinhoo24/ninja-rpg)
+[![Aprendendo-JAVA](https://images.seeklogo.com/logo-png/27/2/github-logo-png_seeklogo-273183.png)](https://github.com/Andinhoo24/Aprendendo-JAVA)
 
 ### 🐍 Cobra Comendo Commits
-<div align="center">
 ![Snake](https://github.com/Andinhoo24/Andinhoo24/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 ### 🛠️ Tech Stack
-<div align="center">
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-</div>
 
 ### 📫 Conecte-se
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andinhoo24)
 [![Instagram](https://img.shields.io/badge/Instagram-%40andinhoo24-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andinhoo24)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](andinhoo24)
-</div>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andinhoo24&theme=radical)
 
-**Uniara CC | Java Dev | Ninja-RPG Portfolio | Fedora** 🚀
+Vou usar esse aqui so arrume os links e me fale o passo a passo da snakes
