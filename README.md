@@ -14,12 +14,9 @@ Estudante de Ciência da Computação na Uniara (Ibitinga/SP). Foco em Java (POO
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andinhoo24&layout=compact&theme=radical)
 
 ### 🔥 Projetos em Destaque
-- [Aprendendo-JAVA](https://github.com/Andinhoo24/Aprendendo-JAVA) – Exercícios Java básico-intermediário.
-- [Lógica de Programação](https://github.com/Andinhoo24/logica-programacao) – Algoritmos em Portugol.
-- Ninja Inventory System (em breve) 🥷
+- [ninja-rpg](https://github.com/Andinhoo24/ninja-rpg)
 
 ### 📫 Conecte-se
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](seu-discord)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andinho024/)
+[![Instagram](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/andyx9z/)
 
-Feito com ❤️ no Brasil! PRs bem-vindas 🚀
