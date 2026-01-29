@@ -18,5 +18,5 @@ Estudante de Ciência da Computação na Uniara (Ibitinga/SP). Foco em Java (POO
 
 ### 📫 Conecte-se
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andinho024/)
-[![Instagram](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/andyx9z/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/andyx9z/)
 
