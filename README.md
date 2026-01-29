@@ -7,7 +7,7 @@
 
 ### 🔥 Projetos em Destaque
 [![ninja-rpg](https://images.seeklogo.com/logo-png/27/2/github-logo-png_seeklogo-273183.png)](https://github.com/Andinhoo24/ninja-rpg)
-[![Aprendendo-JAVA](https://images.seeklogo.com/logo-png/27/2/github-logo-png_seeklogo-273183.png)](https://github.com/Andinhoo24/Aprendendo-JAVA)
+[![Aprendendo-JAVA](https://github.com/Andinhoo24/Aprendendo-JAVA)
 
 ### 🐍 Cobra Comendo Commits
 ![Snake](https://github.com/Andinhoo24/Andinhoo24/blob/output/github-contribution-grid-snake.svg)
