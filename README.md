@@ -6,14 +6,14 @@ Sou estudante de Ciências da Computação, com foco em desenvolvimento de softw
 
 ---
 
-## 🔥 Projetos em Destaque
+## Projetos em Destaque
 
 Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conceitos fundamentais e demonstrar progresso técnico:
 
 - 📋 **[Controle de Tarefas em Java](https://github.com/Andinho24/java-controle-tarefas)**  
   Aplicação console para gerenciamento de tarefas, implementando arrays, loops e estruturas condicionais. Ideal para praticar lógica de programação e manipulação de dados básicos.
 
-*(Em breve, mais projetos com foco em algoritmos avançados e aplicações web.)*
+*(Em breve, mais projetos.)*
 
 ---
 
@@ -52,4 +52,15 @@ Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conc
 
 ## 🔗 Conecte-se Comigo
 
-Interessado em colaborações, discussões sobre tecnologia ou oportunidades acadêm
+Interessado em colaborações, discussões sobre tecnologia ou oportunidades acadêmicas/profissionais? Vamos nos conectar:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/andinho024/) 
+- 📸 [Instagram](https://www.instagram.com/andyx9z/) 
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300"/>
+  <br>
+  <em>Obrigado pela visita! Estou sempre aberto a novas ideias e parcerias. 🚀</em>
+</div>
