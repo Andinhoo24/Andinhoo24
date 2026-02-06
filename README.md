@@ -1,19 +1,19 @@
 # 🚀 Olá, Mundo! Eu sou o Andinho 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Estudante+de+Desenvolvimento+de+Software;Apaixonado+por+Java+e+Lógica+de+Programação;Errando,+Corrigindo+e+Evoluindo+Projeto+a+Projeto!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Estudante+de+Ciências+da+Computação;Especializando-me+em+Java+e+Lógica+de+Programação;Construindo+Projetos+e+Evoluindo+Constantemente!)](https://git.io/typing-svg)
 
-Sou um estudante de ciências da computação, mergulhando fundo no mundo do **Java** e na arte da lógica de programação. Cada erro é uma lição, cada projeto é uma vitória! 
+Sou estudante de Ciências da Computação, com foco em desenvolvimento de software e resolução de problemas computacionais. Atualmente, dedico-me ao estudo aprofundado de **Java**, algoritmos e estruturas de dados, buscando aprimorar minhas habilidades através de projetos práticos e aprendizado contínuo. 💻🔬
 
 ---
 
-##  Projetos em Destaque
+## 🔥 Projetos em Destaque
 
-Aqui vão alguns dos meus bebês digitais – simples, mas cheios de aprendizado:
+Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conceitos fundamentais e demonstrar progresso técnico:
 
 - 📋 **[Controle de Tarefas em Java](https://github.com/Andinho24/java-controle-tarefas)**  
-  Um app básico para gerenciar tarefas, treinando arrays, loops e condicionais. Perfeito para quem tá começando! 
+  Aplicação console para gerenciamento de tarefas, implementando arrays, loops e estruturas condicionais. Ideal para praticar lógica de programação e manipulação de dados básicos.
 
-*(Mais projetos chegando em breve – fique ligado!)*
+*(Em breve, mais projetos com foco em algoritmos avançados e aplicações web.)*
 
 ---
 
@@ -46,21 +46,10 @@ Aqui vão alguns dos meus bebês digitais – simples, mas cheios de aprendizado
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </div>
 
-*(Sempre aprendendo mais – quem sabe o próximo seja Python ou React?)*
+*(Expandindo conhecimentos para incluir linguagens como Python e frameworks web.)*
 
 ---
 
-## 🔗 Vamos Conversar?
+## 🔗 Conecte-se Comigo
 
-Quer bater um papo sobre código, projetos ou só dar um oi? Me encontre aqui:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/andinho024/) – Vamos conectar profissionalmente!
-- 📸 [Instagram](https://www.instagram.com/andyx9z/) – Pra um vibe mais casual.
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300"/>
-  <br>
-  <em>Obrigado por visitar meu perfil! Bora codar juntos?</em>
-</div>
+Interessado em colaborações, discussões sobre tecnologia ou oportunidades acadêm
