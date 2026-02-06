@@ -15,7 +15,7 @@ Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conc
 
 *(Em breve, mais projetos com foco em algoritmos avançados e aplicações we.)*
 
---
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -25,14 +25,6 @@ Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conc
   <img alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/Andinhoo24/Andinhoo24/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-## Estatísticas GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andinhoo24&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andinhoo24&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 ---
 
@@ -60,7 +52,5 @@ Interessado em colaborações, discussões sobre tecnologia ou oportunidades aca
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300"/>
   <br>
-  <em>Valeu pela visita! Bora trocar ideia e codar juntos?</em>
-</div>
-  <em>Obrigado pela visita! Estou sempre aberto a novas ideias e parcerias. </em>
+  <em>Obrigado pela visita! Bora trocar ideia e codar juntos?</em>
 </div>
