@@ -17,7 +17,7 @@ Aprendendo no ritmo certo: errando, corrigindo e evoluindo projeto por projeto.
 ## 🐍 Cobra comendo meus commits
 (quanto mais eu estudo, mais ela cresce 👀)
 
-![Snake animation](https://github.com/Andinho24/Andinhoo24/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Andinhoo24/Andinhoo24/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
