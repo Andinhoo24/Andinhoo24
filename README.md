@@ -23,14 +23,13 @@ Aprendendo no ritmo certo: errando, corrigindo e evoluindo projeto por projeto.
 
 ## 🛠️ Tech Stack
 
-- ☕ Java  
-- 🧠 Lógica de Programação  
+- ☕ Java    
 - 🖥️ IntelliJ IDEA  
-- 🐧 Fedora Linux  
+- 🐧 Linux  
 
 ---
 
 ## 🔗 Conecte-se comigo
 
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI  
-- 📸 Instagram: https://www.instagram.com/andinhoo24
+- 💼 LinkedIn: https://www.linkedin.com/in/andinho024/  
+- 📸 Instagram: https://www.instagram.com/andyx9z/
