@@ -1,26 +1,36 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Andinhoo24;Estudante+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Java+%7C+Linux+%7C+Web+Dev;Projetos+reais+em+desenvolvimento+%F0%9F%A4%A8" alt="Typing SVG" />
-  <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andinhoo24&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andinhoo24&layout=compact&langs_count=7&theme=radical" />
-</div>
+## 👋 E aí, eu sou o Andinho
 
-### 🔥 Projetos em Destaque
-[![ninja-rpg](https://images.seeklogo.com/logo-png/27/2/github-logo-png_seeklogo-273183.png)](https://github.com/Andinhoo24/ninja-rpg)
-[![Aprendendo-JAVA](https://github.com/Andinhoo24/Aprendendo-JAVA)
+Estudante de desenvolvimento de software  
+Atualmente focado em **Java** e lógica de programação.
 
-### 🐍 Cobra Comendo Commits
-![Snake](https://github.com/Andinhoo24/Andinhoo24/blob/output/github-contribution-grid-snake.svg)
+Aprendendo no ritmo certo: errando, corrigindo e evoluindo projeto por projeto.
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+---
 
-### 📫 Conecte-se
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andinhoo24)
-[![Instagram](https://img.shields.io/badge/Instagram-%40andinhoo24-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andinhoo24)
+## 🔥 Projetos em destaque
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andinhoo24&theme=radical)
+- 📋 [Controle de Tarefas em Java](https://github.com/Andinho24/java-controle-tarefas)  
+  Projeto simples pra treinar lógica, arrays, loops e condicionais.
 
-Vou usar esse aqui so arrume os links e me fale o passo a passo da snakes
+---
+
+## 🐍 Cobra comendo meus commits
+(quanto mais eu estudo, mais ela cresce 👀)
+
+![Snake animation](https://github.com/Andinho24/Andinho24/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🛠️ Tech Stack
+
+- ☕ Java  
+- 🧠 Lógica de Programação  
+- 🖥️ IntelliJ IDEA  
+- 🐧 Fedora Linux  
+
+---
+
+## 🔗 Conecte-se comigo
+
+- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI  
+- 📸 Instagram: https://www.instagram.com/andinhoo24
