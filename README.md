@@ -15,9 +15,7 @@ Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conc
 
 *(Em breve, mais projetos com foco em algoritmos avançados e aplicações we.)*
 
----
-
-## 🐍 
+--
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -46,11 +44,11 @@ Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conc
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </div>
 
-*(Expandindo conhecimentos para incluir linguagens como Python e frameworks web.)*
+*(Expandindo conhecimentos para incluir linguagens e frameworks.)*
 
 ---
 
-## 🔗 Conecte-se Comigo
+## Conecte-se Comigo
 
 Interessado em colaborações, discussões sobre tecnologia ou oportunidades acadêmicas/profissionais? Vamos nos conectar:
 
@@ -60,7 +58,9 @@ Interessado em colaborações, discussões sobre tecnologia ou oportunidades aca
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKz9bX9v9Kz9z9z/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300"/>
   <br>
+  <em>Valeu pela visita! Bora trocar ideia e codar juntos?</em>
+</div>
   <em>Obrigado pela visita! Estou sempre aberto a novas ideias e parcerias. </em>
 </div>
