@@ -1,8 +1,8 @@
-# 🚀 Olá, Mundo! Eu sou o Andinho 👋
+# Olá, Mundo! Eu sou o Andinho 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Estudante+de+Ciências+da+Computação;Especializando-me+em+Java+e+Lógica+de+Programação;Construindo+Projetos+e+Evoluindo+Constantemente!)](https://git.io/typing-svg)
 
-Sou estudante de Ciências da Computação, com foco em desenvolvimento de software e resolução de problemas computacionais. Atualmente, dedico-me ao estudo aprofundado de **Java**, algoritmos e estruturas de dados, buscando aprimorar minhas habilidades através de projetos práticos e aprendizado contínuo. 💻🔬
+Sou estudante de Ciências da Computação, com foco em desenvolvimento de software e resolução de problemas computacionais. Atualmente, dedico-me ao estudo aprofundado de **Java**, algoritmos e estruturas de dados, buscando aprimorar minhas habilidades através de projetos práticos e aprendizado contínuo. 
 
 ---
 
@@ -13,7 +13,7 @@ Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conc
 - 📋 **[Controle de Tarefas em Java](https://github.com/Andinho24/java-controle-tarefas)**  
   Aplicação console para gerenciamento de tarefas, implementando arrays, loops e estruturas condicionais. Ideal para praticar lógica de programação e manipulação de dados básicos.
 
-*(Em breve, mais projetos.)*
+*(Em breve, mais projetos com foco em algoritmos avançados e aplicações we.)*
 
 ---
 
@@ -30,7 +30,7 @@ Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conc
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andinhoo24&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andinhoo24&layout=compact&langs_count=7&theme=radical"/>
@@ -38,7 +38,7 @@ Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conc
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -60,7 +60,7 @@ Interessado em colaborações, discussões sobre tecnologia ou oportunidades aca
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://media.giphy.com/media/3o7TKz9bX9v9Kz9z9z/giphy.gif" alt="Coding GIF" width="300"/>
   <br>
-  <em>Obrigado pela visita! Estou sempre aberto a novas ideias e parcerias. 🚀</em>
+  <em>Obrigado pela visita! Estou sempre aberto a novas ideias e parcerias. </em>
 </div>
