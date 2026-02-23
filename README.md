@@ -1,4 +1,4 @@
-# Olá, Mundo! Eu sou o Andinho 👋
+# Eu sou o Andinho 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Estudante+de+Ciências+da+Computação;Especializando-me+em+Java+e+Lógica+de+Programação;Construindo+Projetos+e+Evoluindo+Constantemente!)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@ Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conc
 - 📋 **[Controle de Tarefas em Java](https://github.com/Andinho24/java-controle-tarefas)**  
   Aplicação console para gerenciamento de tarefas, implementando arrays, loops e estruturas condicionais. Ideal para praticar lógica de programação e manipulação de dados básicos.
 
-*(Em breve, mais projetos com foco em algoritmos avançados e aplicações we.)*
+*(Em breve, mais projetos.)*
 
 ---
 
