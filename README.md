@@ -39,7 +39,7 @@ Aqui estão alguns dos meus projetos principais, desenvolvidos para aplicar conc
 
 Interessado em colaborações, discussões sobre tecnologia ou oportunidades acadêmicas/profissionais? Vamos nos conectar:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/andinho024/) 
-- 📸 [Instagram](https://www.instagram.com/andyx9z/) 
+💼 [LinkedIn](https://www.linkedin.com/in/andinho024/) 
+📸 [Instagram](https://www.instagram.com/andyx9z/) 
 
 
