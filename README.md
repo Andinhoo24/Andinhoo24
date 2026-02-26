@@ -1,5 +1,3 @@
-# Eu sou o Andinho 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Estudante+de+Ciências+da+Computação;Especializando-me+em+Java+e+Lógica+de+Programação;Construindo+Projetos+e+Evoluindo+Constantemente!)](https://git.io/typing-svg)
 
 Sou estudante de Ciências da Computação, com foco em desenvolvimento de software e resolução de problemas computacionais. Atualmente, dedico-me ao estudo aprofundado de **Java**, algoritmos e estruturas de dados, buscando aprimorar minhas habilidades através de projetos práticos e aprendizado contínuo. 
