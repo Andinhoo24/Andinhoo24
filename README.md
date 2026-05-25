@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Estudante+de+Sistemas+da+Informação;Foco+em+Desenvolvimento+Back-end;Aprofundando+em+Java+e+Resolução+de+Problemas!)](https://git.io/typing-svg)
 
-Estudante de Sistemas da Informação
 
 ---
 
