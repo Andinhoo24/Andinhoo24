@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Estudante+de+Ciências+da+Computação;Especializando-me+em+Java+e+Lógica+de+Programação;Construindo+Projetos+e+Evoluindo+Constantemente!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Estudante+de+Sistemas+da+Informação;Foco+em+Desenvolvimento+Back-end;Aprofundando+em+Java+e+Resolução+de+Problemas!)](https://git.io/typing-svg)
 
-Sou estudante de Sistemas da Informação com foco em desenvolvimento back-end e resolução de problemas computacionais. Atualmente me dedico ao estudo aprofundado de Java.
+Estudante de Sistemas da Informação
 
 ---
 
@@ -29,12 +29,3 @@ Sou estudante de Sistemas da Informação com foco em desenvolvimento back-end e
 *(Expandindo conhecimentos para incluir linguagens e frameworks.)*
 
 ---
-
-## Conecte-se Comigo
-
-Interessado em colaborações, discussões sobre tecnologia ou oportunidades acadêmicas/profissionais? Vamos nos conectar:
-
-💼 [LinkedIn](https://www.linkedin.com/in/andinho024/) 
-📸 [Instagram](https://www.instagram.com/andyx9z/) 
-
-
