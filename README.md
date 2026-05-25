@@ -20,6 +20,7 @@
 
 ---
 
+<!--
 ## Tech Stack
 
 <div align="center">
@@ -28,3 +29,5 @@
 *(Expandindo conhecimentos para incluir linguagens e frameworks.)*
 
 ---
+-->
+
